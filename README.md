@@ -76,17 +76,9 @@
 <div align="center">
 <h2>GitHub Analytics</h2>
 </div>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asutosh96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00BFFF&title_color=00BFFF&icon_color=1E90FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asutosh96&layout=compact&langs_count=8&theme=tokyonight&border_color=00BFFF&title_color=00BFFF"/>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=asutosh96&theme=tokyonight&border=00BFFF&stroke=00BFFF&ring=00BFFF&fire=1E90FF&currStreakLabel=00BFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asutosh96&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
 </div>
 
 ---
