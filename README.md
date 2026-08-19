@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+universe!;Backend+%26+Full-Stack+Developer;Cloud+%7C+AWS+%7C+Azure;Always+learning%2C+always+building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+universe!;Backend+%26+Full-Stack+Developer;Cloud+%7C+AWS+%7C+Azure;Always+learning%2C+always+building!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -70,28 +70,6 @@
 ---
 
 <div align="center">
-  <h2>Featured Projects</h2>
-</div>
-
-<div align="left">
-
-### **Project Name Here**
-*One-line description of what it does*
-- **Tech Stack:** e.g. Node.js, MongoDB, AWS
-- **Highlight:** what makes it notable
-
-### **Project Name Here**
-*One-line description of what it does*
-- **Tech Stack:** e.g. Java, Spring Boot, SQL
-- **Highlight:** what makes it notable
-
-<!-- Swap these in for 2-3 of your best repos/projects with real details -->
-
-</div>
-
----
-
-<div align="center">
 <h2>GitHub Analytics</h2>
 </div>
 <div align="center">
@@ -100,7 +78,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asutosh96&theme=tokyonight&border=00BFFF&stroke=00BFFF&ring=00BFFF&fire=1E90FF&currStreakLabel=00BFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=asutosh96&theme=tokyonight&border=00BFFF&stroke=00BFFF&ring=00BFFF&fire=1E90FF&currStreakLabel=00BFFF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
