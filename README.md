@@ -4,7 +4,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+universe!;Backend+%26+Full-Stack+Developer;Cloud+%7C+AWS+%7C+Azure;Always+learning%2C+always+building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+universe!;Backend+%26+Full-Stack+Developer;AI+Explorer;Cloud+%7C+AWS+%7C+Azure;Always+learning%2C+always+building!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 </div>
 
 <div align="center">
